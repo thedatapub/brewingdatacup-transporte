@@ -1,6 +1,9 @@
 # Brewing Data Cup
 El BDC es el Hackathon de Ciencia de Datos más importante de la CDMX. Es organizado por [Grupo Modelo](https://en.wikipedia.org/wiki/Grupo_Modelo), [Microsoft](https://www.microsoft.com) y [The Data Pub](https://facebook.com/thedatapub), la comunidad de Ciencia de Datos más grande de México. El objetivo es seleccionar a los mejores Científicos de Datos para ingresar a las filas del grupo de Innovación & Analytics en la cervecera.
 
+# INVITACIÓN AL SLACK
+Da click [aquí](https://join.slack.com/t/thedatapub/shared_invite/enQtMzc0NTAyNzU1ODU5LTA3MTA4OGRlNGY4ZDljNzRiYmVhZmM3YzU0MTZlODY0ZTk2ZGY5ODVmZTU1Y2FiMWJmYzI4MjFlOGFlZDQ1Nzc)
+
 ## ¿De qué trata este reto?
 ### Contexto
 Grupo Modelo cuenta con 7 plantas de cerveza desde donde distribuye cerveza a 182 agencias a lo largo de todo el país. 
