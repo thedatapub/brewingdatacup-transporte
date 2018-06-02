@@ -31,82 +31,13 @@ Tienes los datos de enero 2017 a abril 2018. Variables a pronosticar para mayo 2
 ¿Qué estrategia puedes desarrollar para disminuir el sobrecosto? Tomando en cuenta que la flota disponible de cada transportista es limitada.
 
 ## Diccionario de datos
-| Variable                                                                   |
-|----------------------------------------------------------------------------|
-| Tipo de Dato                                                               |
-| Tipo de Modelaje                                                           |
-| Definición                                                                 |
-| Número de Categorías Diferentes                                            |
-| Folio                                                                      |
-| Numérico                                                                   |
-| Nominal                                                                    |
-| Clave numérica de Folio único asignado a cada viaje                        |
-| 131,189                                                                    |
-| Ruta                                                                       |
-| Numérico                                                                   |
-| Nominal                                                                    |
-| Clave numérica de Ruta único asignado a cada ruta Origen "A" a Destino "B" |
-| 591                                                                        |
-| Fecha                                                                      |
-| Numérico                                                                   |
-| Fecha (DD/MM/YYYY)                                                         |
-| Fecha en el que comenzó el viaje                                           |
-| 455                                                                        |
-| Tipo de Flota                                                              |
-| Texto                                                                      |
-| Nominal                                                                    |
-| Tipo de camión que transporta                                              |
-| 12                                                                         |
-| Origen                                                                     |
-| Numérico                                                                   |
-| Nominal                                                                    |
-| Clave numérica única asignada al lugar de origen del viaje                 |
-| 7                                                                          |
-| Destino                                                                    |
-| Numérico                                                                   |
-| Nominal                                                                    |
-| Clave numérica única asignada al lugar de destino del viaje                |
-| 182                                                                        |
-| Transportista                                                              |
-| Texto                                                                      |
-| Nominal                                                                    |
-| Nombre de la compañía transportista                                        |
-| 87                                                                         |
-| Número Clave Transportista                                                 |
-| Numérico                                                                   |
-| Nominal                                                                    |
-| Clave numérica única asignada a cada compañía transportista                |
-| 87                                                                         |
-| Tarifa pagada                                                              |
-| Numérico                                                                   |
-| Continuo                                                                   |
-| Monto en pesos efectivamente pagado a la compañía transportista por viaje  |
-| 6,451                                                                      |
-| Latitud Origen                                                             |
-| Numérico                                                                   |
-| Continuo                                                                   |
-| Información geográfica del lugar de origen                                 |
-| 7                                                                          |
-| Longitud Origen                                                            |
-| Numérico                                                                   |
-| Continuo                                                                   |
-| Información geográfica del lugar de origen                                 |
-| 7                                                                          |
-| Latitud Destino                                                            |
-| Numérico                                                                   |
-| Continuo                                                                   |
-| Información geográfica del lugar de destino                                |
-| 182                                                                        |
-| Longitud Destino                                                           |
-| Numérico                                                                   |
-| Continuo                                                                   |
-| Información geográfica del lugar de destino                                |
-| 182                                                                        |
-| Distancia Viajada en kms                                                   |
-| Numérico                                                                   |
-| Continuo                                                                   |
-| A calcular por los participantes.                                          |
-| Únicamente considerar carreteras dentro de México                          |
-## ¿En qué consisten los datasets?
+![](https://i.imgur.com/1tdv5Sh.png)
 
-## ¿Cómo se estructura mi solución?
+## Entregables
+Todos los participantes deberán subir un archivo de Power Point con el número de diapositivas que deseen, pero incluyendo las siguientes 3 secciones:
+
+- Metodología: Incluir la siguiente tabla en el mismo formato para que sea comparable entre competidores:
+![](https://i.imgur.com/YYna45O.png)
+- Insights: Diapositiva(s) enumerando los insights encontrados con los datos. Se pueden incluir gráficos
+- Estrategia: Diapositiva(s) en las que los competidores deberán describir la estrategia que sugerirían a Grupo Modelo de acuerdo a los insights encontrados
+
